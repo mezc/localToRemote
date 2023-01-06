@@ -4,9 +4,8 @@ a|b|c|
 hello|world|haha
 
 # 图片
-pic1
----
-![pic1](https://csdnimg.cn/medal/qixiebiaobing4@240.png "alt info")
+
+![pic1](https://csdnimg.cn/medal/qixiebiaobing4@240.png "alt info") pic1
 
 # 链接
 
