@@ -28,6 +28,8 @@ hello|world|haha
 # 注释
 ...
 info1
+---
 info2
+***
 info3
 ...
